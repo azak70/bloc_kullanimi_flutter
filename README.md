@@ -1,3 +1,3 @@
 # bloc_kullanimi
 
-A new Flutter project.
+#kasim adalan flutter eğitimi örnek uygulama.
